@@ -1,0 +1,27 @@
+body{
+    overflow-x: hidden;
+
+}
+.background{
+    background-color: rgb(22, 185, 130);
+}
+.heading{
+    font-weight: bold;
+    font-size: 15px;
+    height: 75px;
+}
+.des{
+font-size: 13px;
+height: 29vh;
+}
+.date{
+    font-size: 10px;
+}
+li:hover{
+    background-color: rgb(12, 150, 104);
+}
+.float{
+    margin-left: 30px;
+   
+}
+
